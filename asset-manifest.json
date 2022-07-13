@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sorting_Visualizer/static/css/main.b445213e.css",
+    "main.js": "/Sorting_Visualizer/static/js/main.19179b54.js",
+    "static/js/787.a2eee95f.chunk.js": "/Sorting_Visualizer/static/js/787.a2eee95f.chunk.js",
+    "index.html": "/Sorting_Visualizer/index.html",
+    "main.b445213e.css.map": "/Sorting_Visualizer/static/css/main.b445213e.css.map",
+    "main.19179b54.js.map": "/Sorting_Visualizer/static/js/main.19179b54.js.map",
+    "787.a2eee95f.chunk.js.map": "/Sorting_Visualizer/static/js/787.a2eee95f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b445213e.css",
+    "static/js/main.19179b54.js"
+  ]
+}
